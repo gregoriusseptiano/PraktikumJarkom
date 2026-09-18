@@ -1,4 +1,3 @@
-https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax[README.md](https://github.com/user-attachments/files/32359271/README.md)
 # Praktikum Jaringan Komputer
 
 Repositori ini berisi kumpulan tugas, latihan, dan proyek akhir (UAS) dari mata kuliah Praktikum Jaringan Komputer (Semester 4). 
